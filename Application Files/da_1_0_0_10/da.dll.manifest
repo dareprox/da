@@ -86,7 +86,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VFfWYyHEglDuizhRVUpklG/pDmV4FDx4eJ8D3n1U5OE=</dsig:DigestValue>
+      <dsig:DigestValue>4OVf+GgYKBpZbOT4gG8ZDoA9mKkqsNetfisQd0BzNxo=</dsig:DigestValue>
     </hash>
   </file>
   <file name="da.exe" size="138240">
